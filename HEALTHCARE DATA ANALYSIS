@@ -1,0 +1,19 @@
+Healthcare Data Analysis Dashboard
+
+This project focuses on analyzing patient, treatment, and healthcare service data to uncover meaningful insights. Using Power BI, the dashboard provides interactive reports for monitoring patient demographics, disease trends, treatment effectiveness, hospital performance, and cost analysis.
+
+Key highlights:
+
+📊 Patient Demographics Analysis – Age, gender, and geography-based trends
+
+🩺 Disease & Diagnosis Insights – Frequency of illnesses and treatment outcomes
+
+💊 Drug & Prescription Analysis – Usage patterns and cost efficiency
+
+🏥 Hospital & Doctor Performance – Resource utilization and service quality
+
+💰 Financial Analysis – Billing, claims, and healthcare expenditure trends
+
+📈 Interactive Visuals – Dynamic filters, slicers, and drill-through reports
+
+This project demonstrates how data-driven healthcare analytics can support better decision-making, improved patient care, and cost optimization.
