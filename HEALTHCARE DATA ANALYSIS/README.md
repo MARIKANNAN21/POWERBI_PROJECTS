@@ -13,19 +13,23 @@ The dashboard helps in identifying trends, improving decision-making, and optimi
    - Gender Distribution  
    - Age Group & Range Insights  
    - Common Medical Conditions  
-   - Blood Type Analysis  
+   - Blood Type Analysis
+   - ![Demographics](images/Demographics.png)
 
 2. **Hospital Operations Analysis**  
    - Admission Trends (Monthly, Quarterly, Yearly)  
    - Admission Types (Elective, Emergency, Urgent)  
    - Length of Stay Analysis  
-   - Bed Utilization Rate  
+   - Bed Utilization Rate
+   - ![Hospital Operations](images/HospitalOps.png)
 
 3. **Financial & Clinical Analysis**  
    - Revenue by Condition, Hospital & Insurance Provider  
    - Average Billing per Patient  
    - Medication Distribution  
-   - Test Result Categorization (Normal, Abnormal, Inconclusive)  
+   - Test Result Categorization (Normal, Abnormal, Inconclusive)
+   - 
+![Financial & Clinical Analysis](images/Financial&Clinical.png)
 
 4. **Doctor & Hospital Performance**  
    - Top Performing Doctors  
