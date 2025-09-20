@@ -29,13 +29,7 @@ The dashboard helps in identifying trends, improving decision-making, and optimi
    - Medication Distribution  
    - Test Result Categorization (Normal, Abnormal, Inconclusive)
    - 
-![Financial & Clinical Analysis](images/Financial&Clinical.png)
-
-4. **Doctor & Hospital Performance**  
-   - Top Performing Doctors  
-   - Hospital Revenue Contribution  
-   - Insurance Provider Performance  
-   - Treatment Outcome Insights  
+![Financial & Clinical Analysis].(images/Financial & Clinical.png)
 
 ---
 
