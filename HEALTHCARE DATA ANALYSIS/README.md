@@ -29,8 +29,7 @@ The dashboard helps in identifying trends, improving decision-making, and optimi
    - Medication Distribution  
    - Test Result Categorization (Normal, Abnormal, Inconclusive)
    - 
-![Financial & Clinical Analysis].(images/Financial & Clinical.png)
-
+![Financial & Clinical Analysis](images/Financial%20&%20Clinical.png)
 ---
 
 ## 🛠 Skills & Tools Used
