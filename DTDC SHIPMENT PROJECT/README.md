@@ -12,14 +12,16 @@ Each page provides deep-dives into **value-added services, shipping modes, payme
 - 🛠 **Value-Added Services Analysis** – Track how COD, Insurance, and Express impact shipment volumes.  
 - 📑 **Nature of Consignment** – Compare Dox vs Non-Dox shipments by volume.  
 - 🚚 **Mode of Shipment** – Breakdown consignments by Surface, Express, and Air Cargo.  
-- 💳 **Mode of Payment** – Analyze shipment counts by Cash, Card, and Wallet transactions.  
+- 💳 **Mode of Payment** – Analyze shipment counts by Cash, Card, and Wallet transactions.
+- ![consignment](images/consignment.jpg)
 
 ### **Page 2 – Total Revenue Analysis**  
 - 💰 **Revenue by Sender & Receiver State** – Pinpoint top-performing states and cities.  
 - 🛠 **Value-Added Services Impact** – Assess COD, Express, and Insurance contribution to revenue.  
 - 💵 **Tariff-Based Revenue** – Analyze revenue contribution across different tariff levels.  
 - 🚚 **Revenue by Mode of Shipment** – Evaluate revenue from Surface, Express, and Air Cargo.  
-- 💳 **Revenue by Mode of Payment** – Insights into revenue share by Cash, Card, and Wallet.  
+- 💳 **Revenue by Mode of Payment** – Insights into revenue share by Cash, Card, and Wallet.
+- ![revenue](images/revenue.jpg)
 
 ---
 
