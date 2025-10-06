@@ -61,7 +61,9 @@ The dashboard is designed to provide insights into **loan distribution, borrower
 - **Waterfall/Stacked Bar Chart:** Total Funded vs Payments vs Balance  
 
 **Outcome:** Highlights repayment trends, property performance, and loan completion rates.
-[Risk & Performance Analysis.PNG](Images/Risk%20&%20Performance%20Analysis.png)
+
+[Risk & Performance Analysis](Images/Risk%20&%20Performance%20Analysis.png)
+
 ---
 
 ## 🧮 Tools & Technologies
