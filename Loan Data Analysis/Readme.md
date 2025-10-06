@@ -23,7 +23,8 @@ The dashboard is designed to provide insights into **loan distribution, borrower
 - **Column Chart:** Month vs Funded Amount  
 
 **Outcome:** Identifies the most funded year, high-performing quarters, and repayment progress.
-![Loan Analysis.PNG](Images/Loan%20Analysis.png)
+
+![Loan Analysis](Images/Loan%20Analysis.png)
 ---
 
 ### 2️⃣ Borrower Analysis
@@ -41,7 +42,8 @@ The dashboard is designed to provide insights into **loan distribution, borrower
 - **Map Chart:** State vs Funded Amount  
 
 **Outcome:** Reveals which job roles and loan purposes contribute the most to loan funding and identifies borrower stability trends.
-![Borrower Analysis.PNG](.Images/Borrower%20Analysis.png)
+
+![Borrower Analysis.PNG](Images/Borrower%20Analysis.png)
 ---
 
 ### 3️⃣ Risk & Performance Analysis
