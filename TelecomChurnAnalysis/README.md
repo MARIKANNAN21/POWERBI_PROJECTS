@@ -83,9 +83,3 @@ The dataset includes:
 - Service usage patterns suggest **opportunities for bundling or upselling** to reduce churn.  
 - Financial analysis highlights **high-revenue at-risk segments**, guiding retention prioritization.  
 
----
-
-## How to Use
-1. Clone the repository:  
-```bash
-git clone https://github.com/yourusername/TelecomChurnAnalysis.git
