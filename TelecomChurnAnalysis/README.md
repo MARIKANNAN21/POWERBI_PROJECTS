@@ -1,8 +1,8 @@
-\# Telecom Customer Churn Analysis Dashboard
+# Telecom Customer Churn Analysis Dashboard
 
 
 
-\## Project Overview
+## Project Overview
 
 This project analyzes a telecom company's customer dataset to understand \*\*churn patterns, service usage, revenue, and risk factors\*\*. The goal is to provide actionable insights that help improve \*\*customer retention, revenue optimization, and service strategies\*\*.
 
@@ -16,19 +16,19 @@ The analysis is implemented in \*\*Power BI\*\* and includes interactive dashboa
 
 
 
-\## Dataset
+## Dataset
 
 The dataset includes:
 
 
 
-\- \*\*Customer Info:\*\* `customerID`, `gender`, `SeniorCitizen`, `Partner`, `Dependents`  
+- \*\*Customer Info:\*\* `customerID`, `gender`, `SeniorCitizen`, `Partner`, `Dependents`  
 
-\- \*\*Services:\*\* `PhoneService`, `MultipleLines`, `InternetService`, `OnlineSecurity`, `OnlineBackup`, `DeviceProtection`, `TechSupport`, `StreamingTV`, `StreamingMovies`  
+- \*\*Services:\*\* `PhoneService`, `MultipleLines`, `InternetService`, `OnlineSecurity`, `OnlineBackup`, `DeviceProtection`, `TechSupport`, `StreamingTV`, `StreamingMovies`  
 
-\- \*\*Account Info:\*\* `Contract`, `PaperlessBilling`, `PaymentMethod`, `tenure`, `MonthlyCharges`, `TotalCharges`  
+- \*\*Account Info:\*\* `Contract`, `PaperlessBilling`, `PaymentMethod`, `tenure`, `MonthlyCharges`, `TotalCharges`  
 
-\- \*\*Target Variable:\*\* `Churn` (Yes/No)  
+- \*\*Target Variable:\*\* `Churn` (Yes/No)  
 
 
 
@@ -36,15 +36,15 @@ The dataset includes:
 
 
 
-\## Dashboard Pages
+## Dashboard Pages
 
 
 
-\### 1. Home Page
+### 1. Home Page
 
-\- \*\*Purpose:\*\* Provides an \*\*overview\*\* and navigational entry point to the dashboard.  
+- \*\*Purpose:\*\* Provides an \*\*overview\*\* and navigational entry point to the dashboard.  
 
-\- \*\*Highlights:\*\*  
+- \*\*Highlights:\*\*  
 
 &nbsp; - High-level \*\*questions\*\* guiding the analysis, e.g.:  
 
@@ -62,11 +62,11 @@ The dataset includes:
 
 
 
-\### 2. Subscriber Base Overview
+### 2. Subscriber Base Overview
 
-\- \*\*Purpose:\*\* Analyze \*\*customer demographics and tenure\*\*.  
+- \*\*Purpose:\*\* Analyze \*\*customer demographics and tenure\*\*.  
 
-\- \*\*KPIs \& Highlights:\*\*  
+- \*\*KPIs \& Highlights:\*\*  
 
 &nbsp; - Customer distribution by \*\*gender, senior citizen, partner/dependents\*\*  
 
@@ -74,7 +74,7 @@ The dataset includes:
 
 &nbsp; - \*\*Churn rate by demographic segments\*\*  
 
-\- \*\*Outcome:\*\* Identify \*\*high-risk customer segments\*\* and retention patterns.  
+- \*\*Outcome:\*\* Identify \*\*high-risk customer segments\*\* and retention patterns.  
 
 
 
@@ -82,11 +82,11 @@ The dataset includes:
 
 
 
-\### 3. Service Overview
+### 3. Service Overview
 
-\- \*\*Purpose:\*\* Evaluate \*\*service adoption and its impact on churn\*\*.  
+- \*\*Purpose:\*\* Evaluate \*\*service adoption and its impact on churn\*\*.  
 
-\- \*\*KPIs \& Highlights:\*\*  
+- \*\*KPIs \& Highlights:\*\*  
 
 &nbsp; - Service usage (Phone, Internet, Streaming, Tech Support)  
 
@@ -94,7 +94,7 @@ The dataset includes:
 
 &nbsp; - Service combinations and multi-service adoption trends  
 
-\- \*\*Outcome:\*\* Identify \*\*services correlated with higher churn\*\* and opportunities for upselling or bundling.  
+- \*\*Outcome:\*\* Identify \*\*services correlated with higher churn\*\* and opportunities for upselling or bundling.  
 
 
 
@@ -102,11 +102,11 @@ The dataset includes:
 
 
 
-\### 4. Financial Overview
+### 4. Financial Overview
 
-\- \*\*Purpose:\*\* Analyze \*\*revenue patterns and financial impact of churn\*\*.  
+- \*\*Purpose:\*\* Analyze \*\*revenue patterns and financial impact of churn\*\*.  
 
-\- \*\*KPIs \& Highlights:\*\*  
+- \*\*KPIs \& Highlights:\*\*  
 
 &nbsp; - Monthly Charges vs Churn  
 
@@ -114,7 +114,7 @@ The dataset includes:
 
 &nbsp; - Revenue contribution by customer segments and contracts  
 
-\- \*\*Outcome:\*\* Understand \*\*financial loss due to churn\*\* and prioritize \*\*high-value customer retention\*\*.  
+- \*\*Outcome:\*\* Understand \*\*financial loss due to churn\*\* and prioritize \*\*high-value customer retention\*\*.  
 
 
 
@@ -122,11 +122,11 @@ The dataset includes:
 
 
 
-\### 5. Risk Overview
+### 5. Risk Overview
 
-\- \*\*Purpose:\*\* Assess \*\*churn risk and critical factors\*\*.  
+- \*\*Purpose:\*\* Assess \*\*churn risk and critical factors\*\*.  
 
-\- \*\*KPIs \& Highlights:\*\*  
+- \*\*KPIs \& Highlights:\*\*  
 
 &nbsp; - Churn rate by \*\*contract type, payment method, and tenure\*\*  
 
@@ -134,7 +134,7 @@ The dataset includes:
 
 &nbsp; - Predictive insights on potential churn (if integrated with ML)  
 
-\- \*\*Outcome:\*\* Identify \*\*customers most likely to churn\*\* and recommend \*\*preventive actions\*\*.  
+- \*\*Outcome:\*\* Identify \*\*customers most likely to churn\*\* and recommend \*\*preventive actions\*\*.  
 
 
 
@@ -142,13 +142,13 @@ The dataset includes:
 
 
 
-\## Tools \& Technologies
+## Tools \& Technologies
 
-\- \*\*Power BI:\*\* Interactive dashboards and KPI visualization  
+- \*\*Power BI:\*\* Interactive dashboards and KPI visualization  
 
-\- \*\*DAX:\*\* Advanced measures for churn, revenue, and tenure  
+- \*\*DAX:\*\* Advanced measures for churn, revenue, and tenure  
 
-\- \*\*Excel / CSV:\*\* Data cleaning and preparation  
+- \*\*Excel / CSV:\*\* Data cleaning and preparation  
 
 
 
@@ -156,15 +156,15 @@ The dataset includes:
 
 
 
-\## Insights \& Key Findings
+## Insights \& Key Findings
 
-\- High churn is concentrated among \*\*month-to-month contract customers\*\* and \*\*Electronic Check\*\* payment users.  
+- High churn is concentrated among \*\*month-to-month contract customers\*\* and \*\*Electronic Check\*\* payment users.  
 
-\- Customers with \*\*long-term contracts and multiple services\*\* have higher retention.  
+- Customers with \*\*long-term contracts and multiple services\*\* have higher retention.  
 
-\- Service usage patterns suggest \*\*opportunities for bundling or upselling\*\* to reduce churn.  
+- Service usage patterns suggest \*\*opportunities for bundling or upselling\*\* to reduce churn.  
 
-\- Financial analysis highlights \*\*high-revenue at-risk segments\*\*, guiding retention prioritization.  
+- Financial analysis highlights \*\*high-revenue at-risk segments\*\*, guiding retention prioritization.  
 
 
 
