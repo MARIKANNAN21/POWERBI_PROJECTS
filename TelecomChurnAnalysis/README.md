@@ -27,7 +27,7 @@ The dataset includes:
     - Which services drive churn?  
     - What is the financial impact of churn?  
   - Summary KPIs: Total Customers, Total Churned, Average Tenure, Total Revenue  
-
+ !  [Home](Images/Home.png)
 ---
 
 ### 2. Subscriber Base Overview
@@ -37,7 +37,7 @@ The dataset includes:
   - **Tenure distribution**  
   - **Churn rate by demographic segments**  
 - **Outcome:** Identify **high-risk customer segments** and retention patterns.  
-
+!  [Home](Images/SubscriberBaseOverview.png)
 ---
 
 ### 3. Service Overview
@@ -47,7 +47,7 @@ The dataset includes:
   - Churn rate by **individual services**  
   - Service combinations and multi-service adoption trends  
 - **Outcome:** Identify **services correlated with higher churn** and opportunities for upselling or bundling.  
-
+!  [Home](Images/Service Overview.png)
 ---
 
 ### 4. Financial Overview
@@ -57,7 +57,7 @@ The dataset includes:
   - Total Revenue lost due to churn  
   - Revenue contribution by customer segments and contracts  
 - **Outcome:** Understand **financial loss due to churn** and prioritize **high-value customer retention**.  
-
+  !  [Home](Images/Financial Behavior.png)
 ---
 
 ### 5. Risk Overview
@@ -67,7 +67,7 @@ The dataset includes:
   - High-risk customer segments  
   - Predictive insights on potential churn (if integrated with ML)  
 - **Outcome:** Identify **customers most likely to churn** and recommend **preventive actions**.  
-
+!  [Home](Images/Risk Overview.png)
 ---
 
 ## Tools & Technologies
