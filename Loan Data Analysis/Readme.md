@@ -62,7 +62,7 @@ The dashboard is designed to provide insights into **loan distribution, borrower
 
 **Outcome:** Highlights repayment trends, property performance, and loan completion rates.
 
-[Risk & Performance Analysis](Images/Risk%20&%20Performance%20Analysis.png)
+![Risk & Performance Analysis](Images/Risk%20&%20Performance%20Analysis.png)
 
 ---
 
