@@ -27,7 +27,7 @@ The dataset includes:
     - Which services drive churn?  
     - What is the financial impact of churn?  
   - Summary KPIs: Total Customers, Total Churned, Average Tenure, Total Revenue  
- !  [Home](Images/Home.png)
+  ![Home](Images/Home.png)
 ---
 
 ### 2. Subscriber Base Overview
