@@ -1,85 +1,121 @@
-# Telecom Customer Churn Analysis Dashboard
+# 📊 Telecom Data Analysis Dashboard (Power BI)
 
-## Project Overview
-This project analyzes a telecom company's customer dataset to understand **churn patterns, service usage, revenue, and risk factors**. The goal is to provide actionable insights that help improve **customer retention, revenue optimization, and service strategies**.
-
-The analysis is implemented in **Power BI** and includes interactive dashboards to explore key metrics and trends.
+### 🚀 Transforming raw telecom data into actionable insights for business growth and customer retention
 
 ---
 
-## Dataset
-The dataset includes:
+## 🧩 Problem Statement
 
-- **Customer Info:** `customerID`, `gender`, `SeniorCitizen`, `Partner`, `Dependents`  
-- **Services:** `PhoneService`, `MultipleLines`, `InternetService`, `OnlineSecurity`, `OnlineBackup`, `DeviceProtection`, `TechSupport`, `StreamingTV`, `StreamingMovies`  
-- **Account Info:** `Contract`, `PaperlessBilling`, `PaymentMethod`, `tenure`, `MonthlyCharges`, `TotalCharges`  
-- **Target Variable:** `Churn` (Yes/No)  
+Telecom companies face increasing challenges in understanding customer behavior, optimizing service performance, and minimizing financial risks.  
+Without clear visibility into subscriber base, service quality, and revenue trends, it becomes difficult to make informed business decisions.
 
 ---
 
-## Dashboard Pages
+## 🎯 Project Objective
 
-### 1. Home Page
-- **Purpose:** Provides an **overview** and navigational entry point to the dashboard.  
-- **Highlights:**  
-  - High-level **questions** guiding the analysis, e.g.:  
-    - Who are our high-risk customers?  
-    - Which services drive churn?  
-    - What is the financial impact of churn?  
-  - Summary KPIs: Total Customers, Total Churned, Average Tenure, Total Revenue  
-  ![Home](Images/Home.png)
----
+The main objective of this project is to analyze telecom operational data using Power BI to:
 
-### 2. Subscriber Base Overview
-- **Purpose:** Analyze **customer demographics and tenure**.  
-- **KPIs & Highlights:**  
-  - Customer distribution by **gender, senior citizen, partner/dependents**  
-  - **Tenure distribution**  
-  - **Churn rate by demographic segments**  
-- **Outcome:** Identify **high-risk customer segments** and retention patterns.  
-  ![Home](Images/Subscriber%20Base%20Overview.png)
----
-
-### 3. Service Overview
-- **Purpose:** Evaluate **service adoption and its impact on churn**.  
-- **KPIs & Highlights:**  
-  - Service usage (Phone, Internet, Streaming, Tech Support)  
-  - Churn rate by **individual services**  
-  - Service combinations and multi-service adoption trends  
-- **Outcome:** Identify **services correlated with higher churn** and opportunities for upselling or bundling.  
-  ![Home](Images/Service%20Overview.png)
----
-
-### 4. Financial Overview
-- **Purpose:** Analyze **revenue patterns and financial impact of churn**.  
-- **KPIs & Highlights:**  
-  - Monthly Charges vs Churn  
-  - Total Revenue lost due to churn  
-  - Revenue contribution by customer segments and contracts  
-- **Outcome:** Understand **financial loss due to churn** and prioritize **high-value customer retention**.  
-  ![Home](Images/Financial%20Behavior.png)
----
-
-### 5. Risk Overview
-- **Purpose:** Assess **churn risk and critical factors**.  
-- **KPIs & Highlights:**  
-  - Churn rate by **contract type, payment method, and tenure**  
-  - High-risk customer segments  
-  - Predictive insights on potential churn (if integrated with ML)  
-- **Outcome:** Identify **customers most likely to churn** and recommend **preventive actions**.  
-  ![Home](Images/Risk%20Overview.png)
----
-
-## Tools & Technologies
-- **Power BI:** Interactive dashboards and KPI visualization  
-- **DAX:** Advanced measures for churn, revenue, and tenure  
-- **Excel / CSV:** Data cleaning and preparation  
+- Gain insights into subscriber distribution and churn patterns  
+- Evaluate service performance and customer usage trends  
+- Track financial KPIs such as revenue, ARPU, and profit margins  
+- Identify potential risks and areas for optimization  
+- Deliver an interactive dashboard for data-driven decision-making
 
 ---
 
-## Insights & Key Findings
-- High churn is concentrated among **month-to-month contract customers** and **Electronic Check** payment users.  
-- Customers with **long-term contracts and multiple services** have higher retention.  
-- Service usage patterns suggest **opportunities for bundling or upselling** to reduce churn.  
-- Financial analysis highlights **high-revenue at-risk segments**, guiding retention prioritization.  
+## 🗂️ Data Overview
 
+| Dataset Component      | Description                                                |
+|------------------------|------------------------------------------------------------|
+| **Subscribers Data**   | Contains subscriber demographics, plan type, and usage behavior |
+| **Services Data**      | Details of service categories, usage, and satisfaction metrics |
+| **Financial Data**     | Tracks revenue, expenses, ARPU, and profit across periods |
+| **Risk Data**          | Includes churn probabilities, complaint rates, and retention risk |
+
+---
+
+## 🧰 Tools & Technologies Used
+
+- **Microsoft Power BI** → Data visualization & dashboard creation  
+- **Power Query** → Data cleaning and transformation  
+- **DAX (Data Analysis Expressions)** → Measure creation and KPI calculations  
+- **Excel** → Data validation and preprocessing  
+
+---
+
+## 📄 Page-Wise Explanation / Insights
+
+### 🏠 Home Page (Executive Summary)
+- Provides a snapshot of key performance indicators from all sections  
+- Highlights total subscribers, revenue, churn percentage, and satisfaction score  
+- Acts as a navigation and insight hub for stakeholders
+- ![Home](Images/Home.png)
+
+---
+
+### 👥 Subscriber Base Overview
+- Analyzes customer distribution by region, plan type, and tenure  
+- Identifies growth patterns and churn-prone segments  
+- Helps in understanding customer demographics and loyalty trends  
+**Outcome:** Clear visibility into where the largest customer bases and churn risks lie
+![Home](Images/Subscriber%20Base%20Overview.png)  
+
+---
+
+### 📞 Service Overview
+- Tracks usage by service type (voice, data, SMS, broadband, etc.)  
+- Measures satisfaction and service performance levels  
+- Identifies high-demand and low-performing services  
+**Outcome:** Enables optimization of underperforming services and promotion of profitable ones
+![Home](Images/Service%20Overview.png)
+---
+
+### 💰 Financial Overview
+- Evaluates total revenue, cost, profit, and ARPU trends  
+- Compares revenue across products, regions, and customer categories  
+- Monitors profitability and identifies high-value customer groups  
+**Outcome:** Helps management focus on profit-generating services and reduce cost leakages
+![Home](Images/Financial%20Behavior.png)
+---
+
+### ⚠️ Risk Overview
+- Examines churn rate, complaint frequency, and service reliability  
+- Identifies high-risk regions, plans, and customer segments  
+- Supports proactive retention strategies  
+**Outcome:** Early detection of at-risk customers and service issues.
+![Home](Images/Risk%20Overview.png)
+---
+
+## 🧠 Skills Gained
+
+- Power BI Dashboard Development  
+- Data Modeling & Relationship Building  
+- DAX Measure Creation & KPI Design  
+- Business Performance Analysis  
+- Customer & Risk Analytics  
+- Storytelling with Data Visualization  
+
+---
+
+## 🏆 Key Achievements
+
+- Built an **interactive dashboard** consolidating subscriber, service, financial, and risk metrics  
+- Delivered **data-driven insights** enabling better decision-making and operational efficiency  
+- Improved **reporting efficiency** through dynamic DAX-based measures and data automation  
+
+---
+
+## 💡 Outcome Summary
+
+- 📈 Provided end-to-end visibility into business performance  
+- 👥 Identified customer churn trends and risk hotspots  
+- 💰 Helped stakeholders optimize revenue and service offerings  
+- ⚙️ Enabled data-driven strategies for growth and retention  
+
+---
+live Dashbaord link : https://app.powerbi.com/view?r=eyJrIjoiNGJiODYzMjMtNTk1OC00YmEzLTkzZjctZjA0YTZhMWQ3NTA0IiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9
+
+---
+### 🧾 Author
+**Marikannan.S** — Data Analyst  
+📍 *Skilled in Excel | Power BI | SQL | Python | Data Storytelling*  
