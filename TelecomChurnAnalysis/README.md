@@ -113,8 +113,11 @@ The main objective of this project is to analyze telecom operational data using 
 - ⚙️ Enabled data-driven strategies for growth and retention  
 
 ---
-live Dashbaord link : https://app.powerbi.com/view?r=eyJrIjoiNGJiODYzMjMtNTk1OC00YmEzLTkzZjctZjA0YTZhMWQ3NTA0IiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9
+## 🔗 Links
 
+- **Live Power BI Dashboard:** [Click here to view]([YOUR_POWERBI_DASHBOARD_LINK](https://app.powerbi.com/view?r=eyJrIjoiNGJiODYzMjMtNTk1OC00YmEzLTkzZjctZjA0YTZhMWQ3NTA0IiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9))  
+- **LinkedIn Post:** [Click here to view](YOUR_LINKEDIN_POST_LINK)
+- 
 ---
 ### 🧾 Author
 **Marikannan.S** — Data Analyst  
