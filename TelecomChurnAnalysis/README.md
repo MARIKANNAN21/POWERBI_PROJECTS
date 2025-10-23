@@ -37,7 +37,7 @@ The dataset includes:
   - **Tenure distribution**  
   - **Churn rate by demographic segments**  
 - **Outcome:** Identify **high-risk customer segments** and retention patterns.  
-  ![Home](Images/Subscriber%20BaseOverview.png)
+  ![Home](Images/Subscriber%20Base%20Overview.png)
 ---
 
 ### 3. Service Overview
