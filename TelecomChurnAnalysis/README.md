@@ -116,7 +116,7 @@ The main objective of this project is to analyze telecom operational data using 
 ## 🔗 Links
 
 - **Live Power BI Dashboard:** [Click here to view](https://app.powerbi.com/view?r=eyJrIjoiNGJiODYzMjMtNTk1OC00YmEzLTkzZjctZjA0YTZhMWQ3NTA0IiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9)  
-- **LinkedIn Post:** [Click here to view](YOUR_LINKEDIN_POST_LINK)
+- **LinkedIn Post:** [Click here to view](https://www.linkedin.com/posts/marikannan21_powerbi-dataanalytics-businessintelligence-activity-7387459406151503872-vuZx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6lXGkBJUiVH2nxdg8wZZxcHrYN2X8ZFHs)
 - 
 ---
 ### 🧾 Author
