@@ -105,7 +105,7 @@ Kurta category dominates sales share; Size XL records the highest demand volume,
 ### 🔹 **4. Promotional & Channel Overview**
 **Visuals:** Clustered Column Chart, Pie Chart  
 **KPIs:** Promo vs Non-Promo Orders, B2B vs Retail Split, Promo Revenue %  
-![Promotional & Channel Overview](Images/Promotional%20&%20%Channel%20%Overview.png)
+![Promotional & Channel Overview](Images/Promotional%20%26%20Channel%20Overview.png)
 
 
 💡 **Insight:**  
