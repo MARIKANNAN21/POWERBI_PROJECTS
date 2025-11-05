@@ -85,7 +85,7 @@ Sales show consistent month-on-month growth, with notable seasonal spikes during
 ### 🔹 **2. Orders & Fulfilment Overview**
 **Visuals:** 100% Stacked Column Chart, Donut Chart, KPI Cards  
 **KPIs:** Fulfilment Share (Amazon vs Merchant), Cancellation Rate, Shipped Orders %  
-![Order & Fulfilment](Images/Orders%20%26%20Fulfilment%20Overview.png)
+![Order & Fulfilment](Images/Order%20%26%20Fulfilment%20Overview.png)
 
 🚚 **Insight:**  
 68% of total orders are fulfilled by Amazon (FBA/Expedited), showing higher reliability and lower cancellation rates compared to Merchant-fulfilled orders.
@@ -95,7 +95,7 @@ Sales show consistent month-on-month growth, with notable seasonal spikes during
 ### 🔹 **3. Product Performance Overview**
 **Visuals:** Treemap, Clustered Bar Chart, Column Chart  
 **KPIs:** Sales by Category, Sales by Size, Top 10 SKUs  
-![Product Performance](Images/Product%20Performance%20Overview.png)
+![Product Performance](Images/Product%20Performance.png)
 
 🛍️ **Insight:**  
 Kurta category dominates sales share; Size XL records the highest demand volume, indicating strong preference in apparel sizing.
@@ -120,4 +120,26 @@ Promotional orders contribute ~40% of total revenue, while B2B customers generat
 ![Geography Overview](Images/Geography%20Overview.png)
 
 🌍 **Insight:**  
-Maharashtra, Karnataka, and Tamil Nadu are top-performing states. Tier-2 cities like Chandigarh and
+Maharashtra, Karnataka, and Tamil Nadu are top-performing states. Tier-2 cities like Chandigarh  and Puducherry show growing order trends.
+
+---
+
+## 🧠 Skills Gained
+
+- Advanced **Power BI Dashboard Design**  
+- Data **Cleaning & Transformation** using Power Query  
+- Creating complex **DAX Measures & KPIs**  
+- Building **interactive visual narratives** with filters & slicers  
+- Performing **Descriptive & Diagnostic Analysis**  
+- Applying **storytelling and branding (Amazon theme colors: Grey #232F3E, Orange #FF9900)**  
+
+---
+
+## 🔗 Live Dashboard & Project Links
+
+- 🟠 **Live Power BI Dashboard:** [View Dashboard](https://your-dashboard-link-here)  
+- 💼 **LinkedIn Post:** [View on LinkedIn](https://your-linkedin-post-link-here)  
+
+---
+
+### ✨ *“Transforming raw order data into meaningful insights that drive better business decisions.”*  
