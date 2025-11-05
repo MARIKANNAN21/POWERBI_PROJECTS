@@ -75,7 +75,7 @@ The dataset contains detailed transactional records from Amazon’s order system
 ### 🔹 **1. Sales Overview**
 **Visuals:** KPI Cards, Line Chart, Donut Chart  
 **KPIs:** Total Sales, Total Orders, Total Quantity, Average Order Value  
-![Sales_Overview](Images/Sales%20%Overview.png)
+![Sales_Overview](Images/Sales%20Overview.png)
 
 📈 **Insight:**  
 Sales show consistent month-on-month growth, with notable seasonal spikes during promotional periods.
@@ -85,7 +85,7 @@ Sales show consistent month-on-month growth, with notable seasonal spikes during
 ### 🔹 **2. Orders & Fulfilment Overview**
 **Visuals:** 100% Stacked Column Chart, Donut Chart, KPI Cards  
 **KPIs:** Fulfilment Share (Amazon vs Merchant), Cancellation Rate, Shipped Orders %  
-![Order & Fulfilment](Images/Order%20%&%20%Fulfilment.png)
+![Order & Fulfilment](Images/Orders%20%26%20Fulfilment%20Overview.png)
 
 🚚 **Insight:**  
 68% of total orders are fulfilled by Amazon (FBA/Expedited), showing higher reliability and lower cancellation rates compared to Merchant-fulfilled orders.
@@ -95,7 +95,7 @@ Sales show consistent month-on-month growth, with notable seasonal spikes during
 ### 🔹 **3. Product Performance Overview**
 **Visuals:** Treemap, Clustered Bar Chart, Column Chart  
 **KPIs:** Sales by Category, Sales by Size, Top 10 SKUs  
-![Product Performance](Images/Product%20%Performance.png)
+![Product Performance](Images/Product%20Performance%20Overview.png)
 
 🛍️ **Insight:**  
 Kurta category dominates sales share; Size XL records the highest demand volume, indicating strong preference in apparel sizing.
@@ -117,7 +117,7 @@ Promotional orders contribute ~40% of total revenue, while B2B customers generat
 **Visuals:** Filled Map, Bar Chart, Table  
 **KPIs:** State-wise Sales, City-wise Orders  
 
-![Geography Overview](Images/Geography%20%Overview.png)
+![Geography Overview](Images/Geography%20Overview.png)
 
 🌍 **Insight:**  
 Maharashtra, Karnataka, and Tamil Nadu are top-performing states. Tier-2 cities like Chandigarh and
