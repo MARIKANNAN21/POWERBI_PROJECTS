@@ -85,7 +85,7 @@ Sales show consistent month-on-month growth, with notable seasonal spikes during
 ### 🔹 **2. Orders & Fulfilment Overview**
 **Visuals:** 100% Stacked Column Chart, Donut Chart, KPI Cards  
 **KPIs:** Fulfilment Share (Amazon vs Merchant), Cancellation Rate, Shipped Orders %  
-![Order & Fulfilment](Images/Order%20%26%20Fulfilment%20Overview.png)
+![Order & Fulfilment](Images/Order%20%26%20Fulfilment.png)
 
 🚚 **Insight:**  
 68% of total orders are fulfilled by Amazon (FBA/Expedited), showing higher reliability and lower cancellation rates compared to Merchant-fulfilled orders.
@@ -137,9 +137,14 @@ Maharashtra, Karnataka, and Tamil Nadu are top-performing states. Tier-2 cities 
 
 ## 🔗 Live Dashboard & Project Links
 
-- 🟠 **Live Power BI Dashboard:** [View Dashboard](https://your-dashboard-link-here)  
+- 🟠 **Live Power BI Dashboard:** [View Dashboard]([https://your-dashboard-link-here](https://app.powerbi.com/view?r=eyJrIjoiNzMzMDk5MzQtN2YyMi00MTRhLTkzMjYtNjI4ZWMxZmUwOWUzIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9))  
 - 💼 **LinkedIn Post:** [View on LinkedIn](https://your-linkedin-post-link-here)  
 
 ---
 
 ### ✨ *“Transforming raw order data into meaningful insights that drive better business decisions.”*  
+
+## 👨‍💻 Author
+
+**Marikannan S**  
+📊 *Aspiring Data Analyst | Excel | Power BI | SQL | Python | Data Visualization Enthusiast*
