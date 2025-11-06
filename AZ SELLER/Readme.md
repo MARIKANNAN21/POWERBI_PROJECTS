@@ -138,7 +138,8 @@ Maharashtra, Karnataka, and Tamil Nadu are top-performing states. Tier-2 cities 
 ## 🔗 Live Dashboard & Project Links
 
 - 🟠 **Live Power BI Dashboard:** [View Dashboard]([https://your-dashboard-link-here](https://app.powerbi.com/view?r=eyJrIjoiNzMzMDk5MzQtN2YyMi00MTRhLTkzMjYtNjI4ZWMxZmUwOWUzIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9)  
-- 💼 **LinkedIn Post:** [View on LinkedIn](https://your-linkedin-post-link-here)  
+
+- 💼 **LinkedIn Post:** [View on LinkedIn]([https://your-linkedin-post-link-here](https://www.linkedin.com/posts/marikannan21_powerbi-dataanalytics-datavisualization-activity-7392175963662508032-sdRY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6lXGkBJUiVH2nxdg8wZZxcHrYN2X8ZFHs))  
 
 ---
 
