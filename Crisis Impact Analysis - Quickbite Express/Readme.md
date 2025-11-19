@@ -147,7 +147,7 @@ Operational delays during June–July directly impacted ratings and brand percep
 
 ## 🔗 Links  
 
-- 🌐 **Live Power BI Dashboard:** [<iframe title="Crisis Impact Analysis - Quick Bite Express" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTkwYzk4ODAtYzhhZS00ZDk2LTkyYzgtODNhZGJiMGUwNjQ1IiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9" frameborder="0" allowFullScreen="true"></iframe>]  
+- 🌐 **Live Power BI Dashboard:** [<iframe title="Crisis Impact Analysis - Quick Bite Express" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYTkwYzk4ODAtYzhhZS00ZDk2LTkyYzgtODNhZGJiMGUwNjQ1IiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=aefb5187ca3b74d5a182" frameborder="0" allowFullScreen="true"></iframe>]  
 
 ---
 
