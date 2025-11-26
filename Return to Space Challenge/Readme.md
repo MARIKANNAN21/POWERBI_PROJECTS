@@ -85,15 +85,17 @@ Analyzes leaders across countries and organizations.
 🔗 https://app.powerbi.com/view?r=eyJrIjoiOWQ5ZDFmZTYtMGExNy00NWZmLWE5ZDMtMTk5YzJlOTI3NzMyIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=8bd925e7dea2dd66171e
 
 ## 📎 Maven ShowCase Link
-🔗 * https://mavenshowcase.com/project/54143 *
+🔗  https://mavenshowcase.com/project/54143
+
+## 📎 linkedin post
+🔗 https://www.linkedin.com/posts/marikannan21_mavenreturntospacechallenge-powerbi-mavenanalytics-activity-7399410596183584768-m6Zb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6lXGkBJUiVH2nxdg8wZZxcHrYN2X8ZFHs
 ---
 
 ## 👨‍💻 Author  
 **Marikannan S**  
 Data Analyst | Power BI | SQL | Python | Excel  
 
-LinkedIn: *Add your LinkedIn profile link here*  
-GitHub: *Add your GitHub profile link here*
+LinkedIn: https://www.linkedin.com/in/marikannan21/  
 
 ---
 
