@@ -84,6 +84,8 @@ Analyzes leaders across countries and organizations.
 ## 📎 Live Dashboard  
 🔗 https://app.powerbi.com/view?r=eyJrIjoiOWQ5ZDFmZTYtMGExNy00NWZmLWE5ZDMtMTk5YzJlOTI3NzMyIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=8bd925e7dea2dd66171e
 
+## 📎 Maven ShowCase Link
+🔗 https://mavenshowcase.com/project/54143
 ---
 
 ## 👨‍💻 Author  
