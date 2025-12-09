@@ -66,7 +66,7 @@ Introduces the analytical scope and central business questions explored in the p
 - Acts as the entry point for KPI-based storytelling.
 
 ### 📸 Screenshot  
-![Home Page](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Home%20.png)
+![Home Page](Images/Home%20.png)
 
 ---
 
@@ -84,13 +84,13 @@ To examine revenue performance, category/product contribution, and profit margin
 
 ### 📸 Screenshots  
 **Sales Overview – Sales**  
-![Sales Overview - Sales](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Sales%20Overview%20-%20Sales.png)
+![Sales Overview - Sales](Images/Sales%20Overview%20-%20Sales.png)
 
 **Sales Overview – Product**  
-![Sales Overview - Product](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Sales%20Overview%20-%20Product%20.png)
+![Sales Overview - Product](Images/Sales%20Overview%20-%20Product%20.png)
 
 **Sales Overview – Profit**  
-![Sales Overview - Profit](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Sales%20Overview%20-%20Profit%20.png)
+![Sales Overview - Profit](Images/Sales%20Overview%20-%20Profit%20.png)
 
 ---
 
@@ -106,7 +106,7 @@ To analyze delivery accuracy and compare on-time vs delayed deliveries.
 - On-time accuracy remained **above 65%** across both years.
 
 ### 📸 Screenshot  
-![Delivery Analysis](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Delivery%20Analysis.png)
+![Delivery Analysis](Images/Delivery%20Analysis.png)
 
 ---
 
@@ -123,7 +123,7 @@ To evaluate customer feedback, satisfaction scores, and user categories.
 - App experience and customer service rated highest.
 
 ### 📸 Screenshot  
-![Customer Segment & Feedback](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Customer%20Segment%20%26%20Feedback%20.png)
+![Customer Segment & Feedback](Images/Customer%20Segment%20%26%20Feedback%20.png)
 
 ---
 
@@ -139,7 +139,7 @@ To assess how campaigns drive engagement, interaction, and conversions.
 - Campaign reach evenly split across app, email, social & SMS.
 
 ### 📸 Screenshot  
-![Marketing](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Marketing%20.png)
+![Marketing](Images/Marketing%20.png)
 
 ---
 
@@ -155,7 +155,7 @@ To assess how campaigns drive engagement, interaction, and conversions.
 
 ## 🔗 Project Links
 
-- 🟡 **Live Power BI Dashboard:** https://your-live-dashboard-link-here  
+- 🟡 **Live Power BI Dashboard:** [https://your-live-dashboard-link-here  ](https://app.powerbi.com/view?r=eyJrIjoiY2ZhOGRkZTktZTE2NS00NDZjLWEzMDAtNjlmZGFlYTdjZDljIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=34488fa0db7625b19e1a)
 - 💻 **GitHub Repository:** https://github.com/MARIKANNAN21/POWERBI_PROJECTS  
 
 ---
