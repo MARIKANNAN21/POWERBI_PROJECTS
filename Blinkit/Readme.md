@@ -4,164 +4,160 @@
 
 ## 🧩 Problem Statement / Key Questions
 
-The project aims to uncover business insights from Blinkit’s sales, delivery, customer feedback, and marketing data through descriptive analytics.  
+This project uncovers insights from Blinkit’s sales, delivery, customer feedback, and marketing data.  
+The following descriptive questions guide the analysis:
 
-The analysis answers the following key questions:
-
-1️⃣ **Sales Overview:**  
+1️⃣ **Sales Overview**  
 → *How are our sales performing across products, regions, and time — and what’s driving the highest revenue?*
 
-2️⃣ **Delivery Performance:**  
+2️⃣ **Delivery Performance**  
 → *How efficiently are our deliveries being completed — and what’s our overall on-time performance?*
 
-3️⃣ **Customer Segmentation & Feedback:**  
+3️⃣ **Customer Segmentation & Feedback**  
 → *Which types of customers contribute most to our sales — and how do their behaviors differ?*
 
-4️⃣ **Marketing Campaigns:**  
+4️⃣ **Marketing Campaigns**  
 → *Which marketing campaigns are driving the highest conversions and customer engagement?*
 
 ---
 
 ## 🎯 Project Objective
 
-To perform **descriptive data analysis** using Power BI to identify:
-- Key revenue trends and performance by product, brand, and category  
-- Delivery reliability and on-time rate across locations  
-- Customer feedback patterns and satisfaction metrics  
-- Campaign performance and engagement efficiency  
+To perform descriptive analysis using Power BI to identify:
+
+- Revenue trends by category, product, and brand  
+- Delivery accuracy & regional performance  
+- Customer satisfaction patterns & behavioral segments  
+- Marketing campaign efficiency & ROI  
 
 ---
 
 ## 🧾 Data Overview
 
 | Data Section | Description |
-|---------------|-------------|
-| **Sales Data** | Order count, revenue, product & brand performance, profit margins |
-| **Delivery Data** | On-time vs delayed deliveries, area-wise performance |
-| **Customer Data** | Feedback scores, repeat customers, new users, and customer distribution |
-| **Marketing Data** | Impressions, clicks, conversions, spend, ROAS, and campaign efficiency |
+|-------------|-------------|
+| **Sales Data** | Order count, revenue, product performance, profit margins |
+| **Delivery Data** | On-time vs delayed, area-wise delivery trends |
+| **Customer Data** | Feedback scores, repeat customers, new users |
+| **Marketing Data** | Impressions, clicks, conversions, spend, ROAS |
 
 ---
 
-## 🧰 Tools & Technologies Used
+## 🧰 Tools Used
 
-| Tool / Tech | Purpose |
-|--------------|----------|
-| **Microsoft Power BI** | Data modeling & interactive dashboard creation |
-| **Power Query Editor** | Data cleaning & transformation |
-| **DAX (Data Analysis Expressions)** | Calculated KPIs & business metrics |
-| **Excel** | Data preparation & verification |
+- **Microsoft Power BI**  
+- **Power Query**  
+- **DAX**  
+- **Excel**
 
 ---
 
-# 📊 Page-wise Explanation & Insights
+# 📊 Page-wise Analysis & Insights
 
 ---
 
 ## 🏠 **Home Page**
 
-### 🎯 **Purpose**  
-To introduce the analysis framework, outline the key business questions, and provide a gateway to other report sections.
+### 🎯 Purpose  
+Introduces the analytical scope and central business questions explored in the project.
 
-### 💡 **Insights**  
-- Presents all the major analytical areas: *Sales, Delivery, Customer Feedback, and Marketing.*  
-- Sets the structure for descriptive analytics and KPI-based storytelling.  
-- Encourages data exploration for decision-making.
+### 💡 Insights  
+- Defines all dashboard themes: Sales, Delivery, Customers, Marketing.  
+- Acts as the entry point for KPI-based storytelling.
 
-### 📸 **Screenshot**  
-![Home Page](https://github.com/your-username/your-repo-name/blob/main/Home%20.png)
+### 📸 Screenshot  
+![Home Page](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Home%20.png)
 
 ---
 
 ## 💰 **Sales Overview**
 
-### 🎯 **Purpose**  
-To measure overall sales performance, product and brand contributions, profit distribution, and growth trends.
+### 🎯 Purpose  
+To examine revenue performance, category/product contribution, and profit margins.
 
-### 💡 **Insights**  
-- **Total Revenue:** ₹11.01M with a 1.5% YoY growth.  
-- **Top Product:** *Pet Treats* generated ₹291K in 2024.  
-- **Best Performing Category:** *Dairy & Breakfast* contributed 6.19% of total revenue in 2023.  
-- **Profit Margin:** 54.83% in 2024, a 101% improvement from the previous year.  
-- **Payment Mix:** UPI, Wallet, Card, and Cash show nearly equal shares.  
+### 💡 Insights  
+- Revenue reached **₹11.01M** with **1.5% YoY growth**.  
+- *Pet Treats* led the product list with **₹291K** sales in 2024.  
+- Profit margin improved to **54.83%** (101% growth).  
+- Dairy & Breakfast contributed **6.19%** of 2023 revenue.  
+- Payment methods show an evenly distributed contribution.
 
-### 📸 **Screenshots**
-**Sales Overview – Sales**
-![Sales Overview - Sales](https://github.com/your-username/your-repo-name/blob/main/Sales%20Overview%20-%20Sales.png)
+### 📸 Screenshots  
+**Sales Overview – Sales**  
+![Sales Overview - Sales](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Sales%20Overview%20-%20Sales.png)
 
-**Sales Overview – Product**
-![Sales Overview - Product](https://github.com/your-username/your-repo-name/blob/main/Sales%20Overview%20-%20Product%20.png)
+**Sales Overview – Product**  
+![Sales Overview - Product](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Sales%20Overview%20-%20Product%20.png)
 
-**Sales Overview – Profit**
-![Sales Overview - Profit](https://github.com/your-username/your-repo-name/blob/main/Sales%20Overview%20-%20Profit%20.png)
+**Sales Overview – Profit**  
+![Sales Overview - Profit](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Sales%20Overview%20-%20Profit%20.png)
 
 ---
 
 ## 🚚 **Delivery Performance**
 
-### 🎯 **Purpose**  
-To analyze on-time versus delayed deliveries across cities and identify delivery efficiency patterns.
+### 🎯 Purpose  
+To analyze delivery accuracy and compare on-time vs delayed deliveries.
 
-### 💡 **Insights**  
-- **On-Time Deliveries:** 69.4% (3K out of 5K total).  
-- **Delayed Deliveries:** 30.6%, mostly in Bathinda and Bhopal.  
-- **Nandyal recorded the highest delivery gap** (22 more on-time than delayed).  
-- **Consistent on-time rate (65%+)** maintained throughout both years.
+### 💡 Insights  
+- **69%** of deliveries were on time (~3K orders).  
+- Delays highest in **Bathinda** & **Bhopal**.  
+- **Nandyal** showed the largest gap between on-time vs delayed delivery.  
+- On-time accuracy remained **above 65%** across both years.
 
-### 📸 **Screenshot**  
-![Delivery Analysis](https://github.com/your-username/your-repo-name/blob/main/Delivery%20Analysis.png)
+### 📸 Screenshot  
+![Delivery Analysis](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Delivery%20Analysis.png)
 
 ---
 
 ## 👥 **Customer Segmentation & Feedback**
 
-### 🎯 **Purpose**  
-To evaluate customer types, repeat behavior, feedback trends, and satisfaction ratings.
+### 🎯 Purpose  
+To evaluate customer feedback, satisfaction scores, and user categories.
 
-### 💡 **Insights**  
-- **Total Customers:** 3K (2K new, 1K repeat).  
-- **Positive Feedback:** 32.4%, Neutral: 34.7%, Negative: 32.8%.  
-- **Average Rating:** Improved from 3.3 (2023) → 3.4 (2024).  
-- **Feedback Areas:** Delivery, Product Quality, App Experience, and Service evenly rated.  
-- **Zero lost customers in 2024**, showing strong customer retention.
+### 💡 Insights  
+- **3K total customers** → 2K new, 1K repeat.  
+- Ratings improved from **3.3 (2023)** → **3.4 (2024)**.  
+- Positive/Neutral/Negative feedback evenly balanced (~33%).  
+- **No lost customers** in 2024 — excellent retention.  
+- App experience and customer service rated highest.
 
-### 📸 **Screenshot**  
-![Customer Segment & Feedback](https://github.com/your-username/your-repo-name/blob/main/Customer%20Segment%20%26%20Feedback%20.png)
+### 📸 Screenshot  
+![Customer Segment & Feedback](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Customer%20Segment%20%26%20Feedback%20.png)
 
 ---
 
 ## 📢 **Marketing Campaign Insights**
 
-### 🎯 **Purpose**  
-To assess campaign effectiveness, engagement, conversions, and ROAS performance.
+### 🎯 Purpose  
+To assess how campaigns drive engagement, interaction, and conversions.
 
-### 💡 **Insights**  
-- **Impressions:** 29M, **Clicks:** 3M, **Conversions:** 298K.  
-- **Total Spend:** ₹16.32M with ROAS of 1.97.  
-- **Most Effective Campaigns:** Festival Offer, Flash Sale, and Membership Drive.  
-- **Conversion Rate:** 10.02%, indicating high engagement.  
-- **Target Audience Mix:** Evenly distributed across Premium, New, and Inactive users.
+### 💡 Insights  
+- **29M impressions**, **3M clicks**, **298K conversions**.  
+- ROAS = **1.97** with total spend **₹16.32M**.  
+- Top campaigns: **Festival Offer**, **Flash Sale**, **Membership Drive**.  
+- Campaign reach evenly split across app, email, social & SMS.
 
-### 📸 **Screenshot**  
-![Marketing Insights](https://github.com/your-username/your-repo-name/blob/main/Marketing%20.png)
-
----
-
-## 🧠 **Skills Gained**
-
-- Data Cleaning & Transformation using Power Query  
-- KPI Creation & DAX Calculations in Power BI  
-- Designing Interactive, Multi-Page Dashboards  
-- Insight Storytelling through Visual Analytics  
-- End-to-End Business Performance Analysis  
+### 📸 Screenshot  
+![Marketing](https://raw.githubusercontent.com/MARIKANNAN21/POWERBI_PROJECTS/main/Blinkit/Marketing%20.png)
 
 ---
 
-## 🔗 **Project Links**
+## 🧠 Skills Gained
 
-- 🟡 **Live Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2ZhOGRkZTktZTE2NS00NDZjLWEzMDAtNjlmZGFlYTdjZDljIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=34488fa0db7625b19e1a)  
-- 💻 **Linkedin Post:** [View on Linkedin](https://your-github-project-link-here)  
+- Power Query cleaning & shaping  
+- DAX-based KPI creation  
+- Multi-page interactive dashboard design  
+- Data storytelling & insight summarization  
+- Business KPI interpretation  
 
 ---
 
-💬 *“Bringing Blinkit’s data to life — connecting sales, delivery, customers, and marke*
+## 🔗 Project Links
+
+- 🟡 **Live Power BI Dashboard:** https://your-live-dashboard-link-here  
+- 💻 **GitHub Repository:** https://github.com/MARIKANNAN21/POWERBI_PROJECTS  
+
+---
+
+💬 *“Turning Blinkit’s business data into actionable insights for smarter decision-making.”*
