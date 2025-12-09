@@ -34,8 +34,6 @@ To perform **descriptive data analysis** using Power BI to identify:
 
 ## 🧾 Data Overview
 
-The dataset includes details of orders, delivery metrics, customer feedback, and campaign data across two years (2023 & 2024).
-
 | Data Section | Description |
 |---------------|-------------|
 | **Sales Data** | Order count, revenue, product & brand performance, profit margins |
@@ -56,86 +54,114 @@ The dataset includes details of orders, delivery metrics, customer feedback, and
 
 ---
 
-## 📊 Page-wise Explanation & Insights
+# 📊 Page-wise Explanation & Insights
 
 ---
 
-### 🟩 **Home Page**
-**Purpose:**  
-Introduces the dashboard’s key questions and outlines the major business areas analyzed.  
+## 🏠 **Home Page**
 
-**Insights:**  
-- Defines project focus: Sales, Delivery, Customer Feedback, and Marketing.  
-- Encourages exploration through KPIs and descriptive visuals for decision-making.  
+### 🎯 **Purpose**  
+To introduce the analysis framework, outline the key business questions, and provide a gateway to other report sections.
 
----
+### 💡 **Insights**  
+- Presents all the major analytical areas: *Sales, Delivery, Customer Feedback, and Marketing.*  
+- Sets the structure for descriptive analytics and KPI-based storytelling.  
+- Encourages data exploration for decision-making.
 
-### 🟨 **Sales Overview**
-**Purpose:**  
-To measure overall sales growth, product and brand performance, and profit trends.  
-
-**Insights:**  
-- **Total Revenue:** ₹11.01M with 1.5% YoY growth.  
-- **Top Product:** Pet Treats led with ₹291K sales in 2024.  
-- **Category Leader:** Dairy & Breakfast generated 6.19% of total revenue in 2023.  
-- **Profit Margin:** 54.83% in 2024, showing 101% improvement from last year.  
-- **UPI, Wallet, Card, and Cash payments** contributed almost equally to profit share.  
+### 📸 **Screenshot**  
+![Home Page](https://github.com/your-username/your-repo-name/blob/main/Home%20.png)
 
 ---
 
-### 🟧 **Delivery Performance**
-**Purpose:**  
-To analyze delivery reliability and on-time vs delayed order patterns across cities.  
+## 💰 **Sales Overview**
 
-**Insights:**  
-- **On-Time Deliveries:** 69.4% of total orders (~3K out of 5K).  
-- **Delayed Deliveries:** 30.6%, mainly in Bathinda and Bhopal areas.  
-- **Nandyal recorded the highest gap** between on-time and delayed deliveries.  
-- **On-time rate remains above 65%** throughout 2023–2024, showing solid logistics management.  
+### 🎯 **Purpose**  
+To measure overall sales performance, product and brand contributions, profit distribution, and growth trends.
+
+### 💡 **Insights**  
+- **Total Revenue:** ₹11.01M with a 1.5% YoY growth.  
+- **Top Product:** *Pet Treats* generated ₹291K in 2024.  
+- **Best Performing Category:** *Dairy & Breakfast* contributed 6.19% of total revenue in 2023.  
+- **Profit Margin:** 54.83% in 2024, a 101% improvement from the previous year.  
+- **Payment Mix:** UPI, Wallet, Card, and Cash show nearly equal shares.  
+
+### 📸 **Screenshots**
+**Sales Overview – Sales**
+![Sales Overview - Sales](https://github.com/your-username/your-repo-name/blob/main/Sales%20Overview%20-%20Sales.png)
+
+**Sales Overview – Product**
+![Sales Overview - Product](https://github.com/your-username/your-repo-name/blob/main/Sales%20Overview%20-%20Product%20.png)
+
+**Sales Overview – Profit**
+![Sales Overview - Profit](https://github.com/your-username/your-repo-name/blob/main/Sales%20Overview%20-%20Profit%20.png)
 
 ---
 
-### 🟦 **Customer Segmentation & Feedback**
-**Purpose:**  
-To study customer feedback, repeat behavior, and overall satisfaction with service and quality.  
+## 🚚 **Delivery Performance**
 
-**Insights:**  
+### 🎯 **Purpose**  
+To analyze on-time versus delayed deliveries across cities and identify delivery efficiency patterns.
+
+### 💡 **Insights**  
+- **On-Time Deliveries:** 69.4% (3K out of 5K total).  
+- **Delayed Deliveries:** 30.6%, mostly in Bathinda and Bhopal.  
+- **Nandyal recorded the highest delivery gap** (22 more on-time than delayed).  
+- **Consistent on-time rate (65%+)** maintained throughout both years.
+
+### 📸 **Screenshot**  
+![Delivery Analysis](https://github.com/your-username/your-repo-name/blob/main/Delivery%20Analysis.png)
+
+---
+
+## 👥 **Customer Segmentation & Feedback**
+
+### 🎯 **Purpose**  
+To evaluate customer types, repeat behavior, feedback trends, and satisfaction ratings.
+
+### 💡 **Insights**  
 - **Total Customers:** 3K (2K new, 1K repeat).  
 - **Positive Feedback:** 32.4%, Neutral: 34.7%, Negative: 32.8%.  
-- **Average Ratings:** Improved from 3.3 (2023) → 3.4 (2024).  
-- **Customer Satisfaction:** Balanced across delivery, product quality, and app experience.  
-- **No lost customers recorded in 2024**, highlighting improved retention.  
+- **Average Rating:** Improved from 3.3 (2023) → 3.4 (2024).  
+- **Feedback Areas:** Delivery, Product Quality, App Experience, and Service evenly rated.  
+- **Zero lost customers in 2024**, showing strong customer retention.
+
+### 📸 **Screenshot**  
+![Customer Segment & Feedback](https://github.com/your-username/your-repo-name/blob/main/Customer%20Segment%20%26%20Feedback%20.png)
 
 ---
 
-### 🟨 **Marketing Campaign Insights**
-**Purpose:**  
-To evaluate how marketing initiatives impact engagement, conversions, and ROI.  
+## 📢 **Marketing Campaign Insights**
 
-**Insights:**  
+### 🎯 **Purpose**  
+To assess campaign effectiveness, engagement, conversions, and ROAS performance.
+
+### 💡 **Insights**  
 - **Impressions:** 29M, **Clicks:** 3M, **Conversions:** 298K.  
-- **Overall ROAS:** 1.97 with ₹16.32M spend.  
-- **App, Email, Social, and SMS** channels contributed equally to reach.  
-- **Top Campaigns:** Festival Offer, Flash Sale, and Membership Drive achieved the highest engagement.  
-- **Conversion Rate:** 10.02%, reflecting effective campaign execution.  
+- **Total Spend:** ₹16.32M with ROAS of 1.97.  
+- **Most Effective Campaigns:** Festival Offer, Flash Sale, and Membership Drive.  
+- **Conversion Rate:** 10.02%, indicating high engagement.  
+- **Target Audience Mix:** Evenly distributed across Premium, New, and Inactive users.
+
+### 📸 **Screenshot**  
+![Marketing Insights](https://github.com/your-username/your-repo-name/blob/main/Marketing%20.png)
 
 ---
 
-## 🧠 Skills Gained
+## 🧠 **Skills Gained**
 
-- Building multi-page dashboards with consistent branding  
-- Data cleaning and transformation using Power Query  
-- Designing descriptive analytical visuals  
-- Applying DAX for performance metrics and KPIs  
-- Storytelling using Power BI themes and insights  
-
----
-
-## 🔗 Project Links
-
-- 🟡 **Live Power BI Dashboard:** [View Dashboard]([https://your-live-dashboard-link-here](https://app.powerbi.com/view?r=eyJrIjoiY2ZhOGRkZTktZTE2NS00NDZjLWEzMDAtNjlmZGFlYTdjZDljIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=34488fa0db7625b19e1a))  
-- 💻 **Linkedin post:** [View on Linkedin](https://your-github-project-link-here)  
+- Data Cleaning & Transformation using Power Query  
+- KPI Creation & DAX Calculations in Power BI  
+- Designing Interactive, Multi-Page Dashboards  
+- Insight Storytelling through Visual Analytics  
+- End-to-End Business Performance Analysis  
 
 ---
 
-💬 *“Bringing Blinkit’s business data to life — connecting sales, delivery, customers, and marketing into a single insight-driven dashboard.”*  
+## 🔗 **Project Links**
+
+- 🟡 **Live Power BI Dashboard:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2ZhOGRkZTktZTE2NS00NDZjLWEzMDAtNjlmZGFlYTdjZDljIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=34488fa0db7625b19e1a)  
+- 💻 **Linkedin Post:** [View on Linkedin](https://your-github-project-link-here)  
+
+---
+
+💬 *“Bringing Blinkit’s data to life — connecting sales, delivery, customers, and marke*
