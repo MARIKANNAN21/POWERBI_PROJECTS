@@ -156,7 +156,7 @@ To assess how campaigns drive engagement, interaction, and conversions.
 ## 🔗 Project Links
 
 - 🟡 **Live Power BI Dashboard:** [https://your-live-dashboard-link-here  ](https://app.powerbi.com/view?r=eyJrIjoiY2ZhOGRkZTktZTE2NS00NDZjLWEzMDAtNjlmZGFlYTdjZDljIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=34488fa0db7625b19e1a)
-- 💻 **GitHub Repository:** https://github.com/MARIKANNAN21/POWERBI_PROJECTS  
+- 💻 **LinkedIN post:** [View On LinkedIn](https://www.linkedin.com/posts/marikannan21_upskilling-powerbi-dataanalytics-activity-7404136876984406016-U8O2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6lXGkBJUiVH2nxdg8wZZxcHrYN2X8ZFHs)
 
 ---
 
