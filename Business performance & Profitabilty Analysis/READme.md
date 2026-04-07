@@ -154,7 +154,7 @@ This project demonstrates how integrating databases like PostgreSQL with Power B
 **Role:** Data Analyst (Fresher)  
 **Skills:** Power BI | Excel | SQL | Python  
 **Location:** Tiruchirappalli, India  
-**LinkedIn:** [linkedin.com/in/marikannan21]()  
+**LinkedIn:** [linkedin.com/in/marikannan21](www.linkedin.com/in/marikannan21)  
 **Email:** marikannan.official.21@gmail.com  
 
 ---
@@ -163,7 +163,7 @@ This project demonstrates how integrating databases like PostgreSQL with Power B
 
 - 🌐 **Live Power BI Dashboard:** [https://app.powerbi.com/view?r=eyJrIjoiZTY0MTRkYjYtNmRkOC00ODgwLWE0ZjctZWI1NGRiYTAzMjVhIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=6a87daf1005ed1799dd7]  
 
-**LinkedIn Post:** [linkedin.com/in/marikannan21]() 
+**LinkedIn Post:** [linkedin.com/in/marikannan21](https://www.linkedin.com/posts/marikannan21_dataanalytics-powerbi-postgresql-ugcPost-7447266435141124097-B58B?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD6lXGkBJUiVH2nxdg8wZZxcHrYN2X8ZFHs) 
 
 ---
 
