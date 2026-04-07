@@ -161,7 +161,7 @@ This project demonstrates how integrating databases like PostgreSQL with Power B
 
 ## 🔗 Links  
 
-- 🌐 **Live Power BI Dashboard:** []  
+- 🌐 **Live Power BI Dashboard:** [https://app.powerbi.com/view?r=eyJrIjoiZTY0MTRkYjYtNmRkOC00ODgwLWE0ZjctZWI1NGRiYTAzMjVhIiwidCI6IjhlZTRhZmYyLWIwM2QtNGRlOC04MWEwLTk5ZTJmODhjNGVlYiJ9&pageName=6a87daf1005ed1799dd7]  
 
 **LinkedIn Post:** [linkedin.com/in/marikannan21]() 
 
