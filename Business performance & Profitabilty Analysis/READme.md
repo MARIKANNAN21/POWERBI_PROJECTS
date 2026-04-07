@@ -144,7 +144,7 @@ This project demonstrates how integrating databases like PostgreSQL with Power B
 ---
 
 ## 📷 Dashboard Preview
-![Images](Report.png)
+![Home Dashboard](Images/Report.png)
 
 ---
 
