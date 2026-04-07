@@ -148,9 +148,22 @@ This project demonstrates how integrating databases like PostgreSQL with Power B
 
 ---
 
-## 👤 Author
-Marikannan  
-Aspiring Data Analyst  
+## 👤 Author  
+
+**Name:** Marikannan S  
+**Role:** Data Analyst (Fresher)  
+**Skills:** Power BI | Excel | SQL | Python  
+**Location:** Tiruchirappalli, India  
+**LinkedIn:** [linkedin.com/in/marikannan21]()  
+**Email:** marikannan.official.21@gmail.com  
+
+---
+
+## 🔗 Links  
+
+- 🌐 **Live Power BI Dashboard:** []  
+
+**LinkedIn Post:** [linkedin.com/in/marikannan21]() 
 
 ---
 
